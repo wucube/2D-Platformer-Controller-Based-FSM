@@ -1,0 +1,15 @@
+/.idea
+/.vs
+/.vscode
+/.vsconfig
+/Assembly-CSharp-Editor.csproj
+/Assembly-CSharp.csproj
+/Assembly-CSharp.csproj.DotSettings
+/Library
+/Logs
+/obj
+/Packages
+/Platformer Controller Tutorial.sln
+/Platformer Controller Tutorial.sln.DotSettings.user
+/Temp
+/UserSettings
