@@ -152,6 +152,4 @@ public class PlayerController : MonoBehaviour
     {
         rigidbody.useGravity = value;
     }
-
-   
 }
