@@ -18,5 +18,8 @@ InputSystem新输入系统的使用。检测玩家的输入，作为状态切换
 
 使用刚体模拟角色的位移效果，结合动画曲线，控制人物的下落速度。
 
+### 运行环境
+Unity 2021.3.23f1c1(LTS)
 
-![Image text]()
+
+![Image text](https://github.com/wucube/2D-Platformer-Controller-Based-FSM/blob/main/_Image/%E4%BA%8C%E6%AE%B5%E8%B7%B3.jpg)
